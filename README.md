@@ -1,4 +1,4 @@
-# AI-services-for-marketing-project-
+# AI-Driven Marketing Automation System
 AI services for marketing using fine-tunning, RAG, ViT, multi agent system
 
 
