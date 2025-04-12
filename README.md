@@ -1,8 +1,8 @@
-# AI-Driven Marketing Automation System (NTI Final Project)
+# Multi-agent Marketing Automation System (NTI Final Project)
 
 ## Overview
 
-**AI-Driven Marketing Automation System** is an advanced AI-powered solution that enhances marketing efficiency through intelligent automation. It prioritizes **fine-tuning with DeepSeek-R1-Distill-Llama-8B for chatbot interactions**, **Vision Transformer (ViT) for real-time image deduplication**, and a **multi-agent system for automating market analysis, content creation, and campaign optimization**.
+**Multi-agent  Marketing Automation System** is an advanced AI-powered solution that enhances marketing efficiency through intelligent automation. It prioritizes **fine-tuning with DeepSeek-R1-Distill-Llama-8B for chatbot interactions**, **Vision Transformer (ViT) for real-time image deduplication**, and a **multi-agent system for automating market analysis, content creation, and campaign optimization**.
 
 **Demo:** [Click here](https://drive.google.com/drive/folders/19LoAuPynyMstODpmvrjwcKnzSQMHtea5?usp=drive_link)
 
